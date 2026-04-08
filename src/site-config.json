@@ -1,0 +1,584 @@
+{
+  "business": {
+    "name": "Hempy Construction, Remodeling, and Restoration",
+    "phone": "+16149499122",
+    "category": "home remodeler",
+    "city": "Columbus",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Columbus Home Transformation, Done Right.",
+      "heroSubline": "From basement renovations to full home remodels, we deliver quality craftsmanship and lasting value. Hempy Construction: Building Columbus, one home at a time.",
+      "aboutTitle": "Your Trusted Columbus Remodeling Partner",
+      "aboutText": [
+        "Hempy Construction, Remodeling, and Restoration started with a simple mission: to provide Columbus homeowners with honest, reliable, and exceptional remodeling services. We're not just contractors; we're your neighbors, committed to enhancing the beauty and functionality of our community.",
+        "Our approach is built on clear communication, meticulous planning, and unwavering attention to detail. We understand that remodeling can be disruptive, so we prioritize minimizing stress and maximizing satisfaction. We use only premium materials and employ skilled tradespeople who share our commitment to excellence.",
+        "We're deeply rooted in Columbus and proud to support local businesses and organizations. From sponsoring community events to volunteering our time, we believe in giving back to the city that has given us so much. We are fully licensed, insured, and dedicated to exceeding your expectations."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of Columbus homes, from freeze-thaw damage to foundation settling."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees, no surprises. Just honest, upfront pricing and detailed project estimates."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "We employ skilled tradespeople and use premium materials to ensure lasting results."
+        },
+        {
+          "title": "Dedicated Project Management",
+          "description": "Your dedicated project manager will keep you informed and ensure your project stays on schedule and within budget."
+        }
+      ],
+      "ctaHeadline": "Transform Your Home Today!",
+      "ctaSubline": "Schedule a free consultation and let Hempy Construction bring your vision to life."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Create the kitchen of your dreams with our expert remodeling services.",
+        "description": "The kitchen is the heart of your home, and Hempy Construction understands its importance. We specialize in transforming outdated or dysfunctional kitchens into beautiful, functional spaces that meet your unique needs and style. Whether you're looking for a complete overhaul or a simple refresh, we've got you covered.\n\nOur kitchen remodeling services include custom cabinetry, countertop installation (granite, quartz, marble, and more), backsplash design and installation, flooring upgrades, appliance installation, and lighting solutions. We handle every aspect of the project, from initial design and planning to final inspection, ensuring a seamless and stress-free experience.\n\nColumbus homes often feature unique layouts and architectural styles. We're experienced in working with a variety of kitchen designs, maximizing space and incorporating modern amenities while preserving the character of your home. We also address common issues like poor lighting, inadequate storage, and inefficient layouts.\n\nWe work closely with you to understand your vision, budget, and timeline. Our team provides expert guidance and creative solutions to bring your dream kitchen to life. We use only premium materials and employ skilled tradespeople to ensure lasting quality and satisfaction.",
+        "process": [
+          "Step 1: Initial Consultation and Design Planning",
+          "Step 2: Material Selection and Budget Finalization",
+          "Step 3: Demolition and Construction",
+          "Step 4: Installation of Cabinets, Countertops, and Appliances"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality and Efficiency",
+          "Enhanced Aesthetics and Style",
+          "Customized to Your Specific Needs"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The duration of a kitchen remodel depends on the scope of the project, but typically ranges from 4 to 8 weeks. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodeling process?",
+            "answer": "While it's possible to live in your home during a kitchen remodel, it can be disruptive. We recommend making alternative living arrangements if possible."
+          },
+          {
+            "question": "How much does a kitchen remodel cost?",
+            "answer": "The cost of a kitchen remodel varies depending on the size and complexity of the project, as well as the materials selected. We provide a detailed estimate after the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Transform your bathroom into a spa-like retreat with our renovation expertise.",
+        "description": "Is your bathroom outdated, cramped, or simply not meeting your needs? Hempy Construction can help you create a bathroom that is both functional and beautiful. We specialize in bathroom remodeling services for Columbus homes, addressing common issues like water damage, poor ventilation, and outdated fixtures.\n\nOur bathroom remodeling services include complete bathroom renovations, shower and tub replacements, vanity and countertop installation, tile work, and plumbing and electrical upgrades. We handle every aspect of the project, from design to completion, ensuring a seamless and stress-free experience.\n\nWe understand the unique challenges of remodeling bathrooms in older Columbus homes, such as dealing with outdated plumbing and electrical systems. Our team is experienced in addressing these issues and ensuring that your new bathroom meets all current building codes.\n\nWe work closely with you to understand your vision, budget, and timeline. Our team provides expert guidance and creative solutions to bring your dream bathroom to life. We use only premium materials and employ skilled tradespeople to ensure lasting quality and satisfaction. From helping you select the perfect tile to installing energy-efficient fixtures, we handle all the details.",
+        "process": [
+          "Step 1: Consultation and Design Planning",
+          "Step 2: Demolition and Removal of Existing Fixtures",
+          "Step 3: Plumbing and Electrical Upgrades",
+          "Step 4: Installation of New Fixtures and Finishes"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality and Accessibility",
+          "Enhanced Comfort and Relaxation",
+          "Modernized Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How long does a bathroom remodel take?",
+            "answer": "A typical bathroom remodel takes between 2 to 4 weeks, depending on the scope of the project."
+          },
+          {
+            "question": "Do I need a permit for a bathroom remodel?",
+            "answer": "In most cases, a permit is required for bathroom remodeling projects in Columbus, especially if plumbing or electrical work is involved. We handle all permit applications on your behalf."
+          },
+          {
+            "question": "Can you help me choose the right fixtures and finishes?",
+            "answer": "Absolutely! We have extensive experience in selecting fixtures and finishes that complement your style and budget."
+          }
+        ]
+      },
+      {
+        "slug": "basement-remodeling",
+        "name": "Basement Remodeling",
+        "shortDescription": "Maximize your living space with our professional basement finishing and remodeling.",
+        "description": "Unlock the full potential of your Columbus home with a professionally finished basement. Hempy Construction specializes in basement remodeling services, transforming unfinished basements into functional and inviting living spaces. Whether you envision a home theater, a game room, a home office, or an extra bedroom, we can bring your vision to life.\n\nOur basement remodeling services include framing, insulation, drywall, flooring, electrical and plumbing work, and custom finishes. We handle every aspect of the project, from initial design to final inspection, ensuring a seamless and stress-free experience.\n\nColumbus basements are often susceptible to moisture issues due to the region's climate and clay soil. We address these concerns by implementing proper waterproofing techniques and installing moisture-resistant materials. We also ensure that your finished basement is properly insulated to maintain a comfortable temperature year-round.\n\nWe work closely with you to understand your specific needs and preferences. Our team provides expert guidance and creative solutions to maximize space and create a basement that you'll love for years to come. We pay close attention to detail, ensuring that every aspect of your finished basement meets our high standards of quality.",
+        "process": [
+          "Step 1: Initial Consultation and Design Planning",
+          "Step 2: Waterproofing and Moisture Control",
+          "Step 3: Framing, Insulation, and Drywall",
+          "Step 4: Electrical and Plumbing Installation"
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Enhanced Home Value",
+          "Improved Comfort and Functionality",
+          "Customized to Your Specific Needs"
+        ],
+        "faq": [
+          {
+            "question": "How long does a basement remodel take?",
+            "answer": "A typical basement remodel takes between 6 to 12 weeks, depending on the size and complexity of the project."
+          },
+          {
+            "question": "Do I need a permit for a basement remodel?",
+            "answer": "Yes, a permit is required for basement remodeling projects in Columbus. We handle all permit applications on your behalf."
+          },
+          {
+            "question": "How do I prevent moisture problems in my finished basement?",
+            "answer": "We use advanced waterproofing techniques and moisture-resistant materials to prevent moisture problems in your finished basement."
+          }
+        ]
+      },
+      {
+        "slug": "whole-house-remodeling",
+        "name": "Whole House Remodeling",
+        "shortDescription": "Transform your entire home with our comprehensive remodeling solutions.",
+        "description": "Ready for a complete home transformation? Hempy Construction specializes in whole house remodeling services in Columbus, helping you create the home of your dreams. Whether you're looking to update your home's style, improve its functionality, or increase its value, we can handle every aspect of the project, from initial design to final completion.\n\nOur whole house remodeling services include kitchen and bathroom renovations, basement finishing, room additions, flooring upgrades, painting, and more. We work closely with you to develop a comprehensive plan that meets your specific needs and budget. We understand the challenges of living in your home during a major renovation, and we take every precaution to minimize disruption and ensure your comfort.\n\nColumbus homes often have unique architectural features and styles. We're experienced in working with a variety of home designs, preserving the character of your home while incorporating modern amenities and technologies. We also address common issues like outdated wiring, inefficient insulation, and structural problems.\n\nWe use only premium materials and employ skilled tradespeople to ensure lasting quality and satisfaction. Our dedicated project managers will keep you informed every step of the way, ensuring that your project stays on schedule and within budget.",
+        "process": [
+          "Step 1: Comprehensive Consultation and Design Planning",
+          "Step 2: Detailed Budget and Timeline Development",
+          "Step 3: Demolition and Construction",
+          "Step 4: Final Walk-Through and Quality Assurance"
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality and Style",
+          "Enhanced Energy Efficiency",
+          "A Home That Truly Reflects Your Personality"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole house remodel take?",
+            "answer": "The duration of a whole house remodel depends on the scope of the project, but typically ranges from several months to a year. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during a whole house remodel?",
+            "answer": "In most cases, it's necessary to move out during a whole house remodel. We can help you find temporary housing if needed."
+          },
+          {
+            "question": "How much does a whole house remodel cost?",
+            "answer": "The cost of a whole house remodel varies significantly depending on the size and complexity of the project. We provide a detailed estimate after the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your home with our expert roof repair and replacement services.",
+        "description": "Your roof is your home's first line of defense against the elements. Hempy Construction provides comprehensive roofing services to protect your Columbus home from the harsh Ohio weather. From minor repairs to complete roof replacements, we've got you covered.\n\nOur roofing services include roof inspections, leak repairs, shingle replacement, storm damage repair, and complete roof replacements. We work with a variety of roofing materials, including asphalt shingles, metal roofing, and tile roofing. We use only premium materials from trusted manufacturers to ensure lasting quality and durability.\n\nColumbus experiences harsh winters with heavy snow and ice, which can cause significant damage to roofs. We're experienced in identifying and repairing ice dams, leaks, and other common roofing problems. We also offer preventative maintenance services to help extend the life of your roof.\n\nWe provide free roof inspections and detailed estimates. Our team will assess the condition of your roof and recommend the most appropriate solution for your needs and budget. We handle all permit applications and ensure that your new roof meets all current building codes.",
+        "process": [
+          "Step 1: Free Roof Inspection",
+          "Step 2: Detailed Estimate and Material Selection",
+          "Step 3: Roof Repair or Replacement",
+          "Step 4: Final Inspection and Clean-Up"
+        ],
+        "benefits": [
+          "Protection from the Elements",
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Peace of Mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a new roof?",
+            "answer": "Signs that you may need a new roof include leaks, missing or damaged shingles, and excessive granule loss. We offer free roof inspections to assess the condition of your roof."
+          },
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "A typical roof replacement takes between 1 to 3 days, depending on the size and complexity of the roof."
+          },
+          {
+            "question": "Does my homeowner's insurance cover roof damage?",
+            "answer": "In some cases, homeowner's insurance may cover roof damage caused by storms or other covered events. We can help you navigate the insurance claims process."
+          }
+        ]
+      },
+      {
+        "slug": "siding-services",
+        "name": "Siding Services",
+        "shortDescription": "Enhance your home's curb appeal and protection with new siding installation.",
+        "description": "Upgrade your home's appearance and protect it from the elements with new siding from Hempy Construction. We offer a wide range of siding options to suit your style and budget, including vinyl siding, fiber cement siding, and wood siding.\n\nOur siding services include siding installation, siding repair, and siding replacement. We use only premium materials from trusted manufacturers to ensure lasting quality and durability. We also offer a variety of colors and styles to enhance your home's curb appeal.\n\nColumbus homes are often subjected to harsh weather conditions, including extreme temperatures, wind, and rain. We install siding that is designed to withstand these conditions and protect your home from the elements. We also ensure that your siding is properly installed to prevent moisture damage and energy loss.\n\nWe provide free siding estimates and detailed consultations. Our team will assess your home's siding needs and recommend the most appropriate solution for your budget. We handle all permit applications and ensure that your new siding meets all current building codes.",
+        "process": [
+          "Step 1: Free Siding Estimate",
+          "Step 2: Material Selection and Design Consultation",
+          "Step 3: Siding Installation",
+          "Step 4: Final Inspection and Clean-Up"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Protection from the Elements"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need new siding?",
+            "answer": "Signs that you may need new siding include cracks, warping, fading, and moisture damage. We offer free siding estimates to assess the condition of your siding."
+          },
+          {
+            "question": "How long does siding installation take?",
+            "answer": "Siding installation typically takes between 1 to 2 weeks, depending on the size of your home and the type of siding being installed."
+          },
+          {
+            "question": "What are the benefits of vinyl siding?",
+            "answer": "Vinyl siding is a durable, low-maintenance, and cost-effective siding option that is available in a variety of colors and styles."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dublin",
+        "slug": "dublin-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration is proud to offer our comprehensive home remodeling services to the residents of Dublin, Ohio. We understand the unique needs of Dublin homeowners, particularly those in the upscale subdivisions built from the 1980s through the 2000s. These homes, while well-built, may now be ready for updates to kitchens, bathrooms, and living spaces to reflect modern styles and functionalities. We're committed to providing high-quality craftsmanship and exceptional customer service to ensure your remodeling project exceeds your expectations.\n\nOur expertise extends to addressing the challenges posed by Ohio's climate. The cold, snowy winters and frequent freeze-thaw cycles can take a toll on your home's exterior. We offer solutions for repairing and preventing damage to siding, roofing, and foundations. Whether you're looking to renovate your interior or protect your home from the elements, Hempy Construction is your trusted partner in Dublin.",
+        "localContext": "Dublin, Ohio, a vibrant city of approximately 50,000 residents, is characterized by its upscale residential areas and a strong sense of community. Many homes were built between the 1980s and 2000s.",
+        "nearbyAreas": [
+          "Columbus",
+          "Powell",
+          "Worthington"
+        ]
+      },
+      {
+        "city": "Westerville",
+        "slug": "westerville-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration is dedicated to providing top-notch remodeling services to homeowners in Westerville, Ohio. With its established suburbs dating back to the 1970s and 80s, Westerville boasts a diverse range of homes, each with its unique character and remodeling potential. We understand the specific needs of Westerville residents and are committed to delivering exceptional results that enhance the beauty and functionality of your home.\n\nThe fluctuating Ohio weather patterns can create problems for homeowners. We're experienced in dealing with the effects of cold snowy winters and freeze-thaw cycles, and we offer solutions to protect your home from the elements. From siding repairs to roof replacements, our team has the expertise to handle any exterior remodeling project.",
+        "localContext": "Westerville, Ohio, with a population of around 40,000, is known for its well-established neighborhoods and a strong sense of community. The majority of homes were constructed in the 1970s and 80s.",
+        "nearbyAreas": [
+          "Columbus",
+          "Galena",
+          "Worthington"
+        ]
+      },
+      {
+        "city": "Hilliard",
+        "slug": "hilliard-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration proudly serves the community of Hilliard, Ohio, offering a wide range of home remodeling services. Hilliard's family-friendly subdivisions, primarily built in the 1980s and 90s, are known for their spacious layouts and well-maintained properties. We understand the importance of creating a comfortable and functional living space for your family. We are dedicated to delivering personalized solutions that meet your specific needs and enhance the value of your home.\n\nBeing near Columbus, Hilliard is similarly affected by the winter weather. We also offer services designed to combat the effects of Ohio's harsh winters. We're equipped to handle all your remodeling needs.",
+        "localContext": "Hilliard, Ohio, a suburb of Columbus with a population of approximately 37,000, is characterized by its family-oriented subdivisions and a strong sense of community. Homes were generally built in the 1980s and 90s.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Plain City"
+        ]
+      },
+      {
+        "city": "Grove City",
+        "slug": "grove-city-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration is pleased to provide high-quality home remodeling services to the residents of Grove City, Ohio. With its affordable homes built primarily in the 1970s and 80s, Grove City offers a great opportunity for homeowners to invest in their properties and create their dream living spaces. We are committed to providing cost-effective solutions without sacrificing quality or craftsmanship.\n\nWe also understand the challenges posed by Ohio's climate, and we offer a range of services to protect your home from the elements. From repairing winter damage to improving insulation, we have the expertise to keep your home comfortable and energy-efficient. We are committed to helping you create a home that you can enjoy for years to come.",
+        "localContext": "Grove City, Ohio, with a population of around 42,000, is known for its affordable housing and a strong sense of community. Many homes were built during the 1970s and 80s.",
+        "nearbyAreas": [
+          "Columbus",
+          "Orient",
+          "Urbancrest"
+        ]
+      },
+      {
+        "city": "Powell",
+        "slug": "powell-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration is committed to serving the residents of Powell, Ohio with exceptional home remodeling and restoration services. Powell is known for its beautiful homes and well-manicured neighborhoods. We understand the discerning tastes of Powell homeowners and offer customized solutions to enhance the beauty and value of your properties.\n\nThe Ohio climate can be tough on homes, and Powell is no exception. Our services help protect and restore homes from the damage caused by harsh winters and changing seasons. From roof repairs to siding replacements, we've got you covered.",
+        "localContext": "Powell, Ohio is an affluent suburb of Columbus with a focus on community and well-maintained properties.",
+        "nearbyAreas": [
+          "Dublin",
+          "Lewis Center",
+          "Delaware"
+        ]
+      },
+      {
+        "city": "Lewis Center",
+        "slug": "lewis-center-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration is proud to offer our expertise to the growing community of Lewis Center, Ohio. With its newer construction and expanding neighborhoods, Lewis Center presents unique opportunities for home remodeling and renovation. We specialize in modern designs and energy-efficient solutions to meet the needs of today's homeowners.\n\nWe also address the challenges of Ohio's climate. Our team is experienced in providing solutions to protect your home from the elements, ensuring its longevity and beauty. Let us help you create the home of your dreams in Lewis Center.",
+        "localContext": "Lewis Center, Ohio, is a rapidly developing area known for its new construction and family-friendly atmosphere.",
+        "nearbyAreas": [
+          "Westerville",
+          "Powell",
+          "Delaware"
+        ]
+      },
+      {
+        "city": "Delaware",
+        "slug": "delaware-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration extends its services to Delaware, Ohio, providing top-quality remodeling and restoration solutions. Delaware is a city with a rich history and diverse architectural styles. We appreciate the unique character of Delaware homes and tailor our services to preserve their charm while incorporating modern updates and conveniences.\n\nWe also understand the importance of protecting your home from Ohio's unpredictable weather. Our team is equipped to handle any exterior remodeling project, ensuring your home remains beautiful and functional for years to come.",
+        "localContext": "Delaware, Ohio, is a historic city with a mix of architectural styles and a strong sense of community.",
+        "nearbyAreas": [
+          "Powell",
+          "Lewis Center",
+          "Sunbury"
+        ]
+      },
+      {
+        "city": "Worthington",
+        "slug": "worthington-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration is dedicated to providing outstanding remodeling services in Worthington, Ohio. Known for its charming historic district and well-established neighborhoods, Worthington presents unique remodeling opportunities. We are experienced in preserving the character of older homes while incorporating modern amenities and energy-efficient upgrades.\n\nWe also offer solutions to address the challenges posed by Ohio's climate. Our team is equipped to handle any remodeling project, ensuring your home remains beautiful, functional, and protected from the elements. We're committed to helping you create a home that reflects your style and meets your needs.",
+        "localContext": "Worthington, Ohio, is a historic suburb of Columbus known for its charming downtown and well-established neighborhoods.",
+        "nearbyAreas": [
+          "Columbus",
+          "Dublin",
+          "Westerville"
+        ]
+      },
+      {
+        "city": "Upper Arlington",
+        "slug": "upper-arlington-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration is proud to offer its comprehensive remodeling services to homeowners in Upper Arlington, Ohio. Upper Arlington is known for its beautiful, established homes and discerning residents. We understand the high standards of Upper Arlington homeowners and are committed to providing exceptional craftsmanship and personalized service to meet their unique needs.\n\nWe are also experienced in addressing the challenges posed by Ohio's climate. We offer solutions to protect your home from the elements, ensuring its longevity and beauty. Whether you're looking to update your kitchen, remodel your bathroom, or restore your home's exterior, Hempy Construction is your trusted partner in Upper Arlington.",
+        "localContext": "Upper Arlington, Ohio is an affluent suburb of Columbus known for its well-maintained homes and highly-rated schools.",
+        "nearbyAreas": [
+          "Columbus",
+          "Grandview Heights",
+          "Marble Cliff"
+        ]
+      },
+      {
+        "city": "Grandview Heights",
+        "slug": "grandview-heights-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration is pleased to provide high-quality remodeling services to the residents of Grandview Heights, Ohio. Grandview Heights is a vibrant, walkable community with a mix of historic homes and modern residences. We offer a range of remodeling services to enhance the beauty and functionality of your home, whether you're looking to update a classic bungalow or renovate a contemporary townhouse.\n\nWe understand the importance of protecting your home from Ohio's unpredictable weather. Our team is equipped to handle any exterior remodeling project, ensuring your home remains beautiful and functional for years to come. We are committed to helping you create a home that you can enjoy for years to come.",
+        "localContext": "Grandview Heights, Ohio, is a vibrant, walkable community known for its mix of historic homes and modern residences.",
+        "nearbyAreas": [
+          "Columbus",
+          "Upper Arlington",
+          "Marble Cliff"
+        ]
+      },
+      {
+        "city": "New Albany",
+        "slug": "new-albany-oh",
+        "state": "OH",
+        "content": "Hempy Construction, Remodeling, and Restoration is proud to serve the New Albany, Ohio community, offering high-end remodeling and restoration services. New Albany is known for its luxury homes and meticulously planned community. We understand the unique needs of New Albany residents and are committed to providing exceptional craftsmanship and attention to detail in every project.\n\nWe are also experienced in addressing the challenges of Ohio's climate. We offer solutions to protect your home from the elements, ensuring its longevity and beauty. From roof repairs to siding replacements, we've got you covered. Let us help you create the home of your dreams in New Albany.",
+        "localContext": "New Albany, Ohio, is an affluent suburb of Columbus known for its luxury homes and meticulously planned community.",
+        "nearbyAreas": [
+          "Westerville",
+          "Gahanna",
+          "Johnstown"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Hempy Construction did an amazing job remodeling our kitchen! They were professional, efficient, and the quality of their work is outstanding. Our kitchen is now the heart of our home. Highly recommended!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Bathroom Renovation",
+        "text": "We hired Hempy Construction to renovate our master bathroom, and we're very pleased with the results. They helped us choose beautiful fixtures and finishes, and the installation was flawless. There were a couple of minor delays, but they communicated well throughout the process.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Basement Finishing",
+        "text": "Hempy Construction transformed our unfinished basement into a fantastic living space for our family. They were creative with the design and paid attention to every detail. The project was completed on time and within budget. We couldn't be happier!",
+        "date": "2024-09-12"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "Our roof was leaking after a recent storm, and Hempy Construction responded quickly and efficiently. They assessed the damage, provided a clear explanation of the repairs needed, and completed the work promptly. We're grateful for their excellent service!",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 4,
+        "service": "Siding Installation",
+        "text": "Hempy Construction installed new siding on our home, and it looks fantastic! The crew was professional and courteous, and they did a great job cleaning up after the project was completed. We've already received compliments from our neighbors.",
+        "date": "2024-07-19"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Whole House Remodel",
+        "text": "We hired Hempy Construction for a whole house remodel, and it was the best decision we ever made! They transformed our outdated home into a modern and stylish space that we love. The team was professional, reliable, and dedicated to exceeding our expectations.",
+        "date": "2024-06-02"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Hempy Construction | Columbus, OH Remodeler",
+        "description": "Expert home remodeling, kitchen & bath renovations, basement finishing, and roofing services in Columbus. Call Hempy Construction today!"
+      },
+      "about": {
+        "title": "About Hempy Construction | Columbus Remodeling Company",
+        "description": "Learn about Hempy Construction's commitment to quality, integrity, and customer satisfaction. Your trusted Columbus remodeling partner."
+      },
+      "services": {
+        "title": "Columbus, OH Remodeling Services | Hempy Construction",
+        "description": "Comprehensive home remodeling services in Columbus: kitchen, bathroom, basement, roofing, siding, and more. Contact us for a free estimate."
+      },
+      "contact": {
+        "title": "Contact Hempy Construction | Columbus, OH Remodeling",
+        "description": "Get in touch with Hempy Construction for your home remodeling needs in Columbus. Call us or fill out our online form for a free consultation."
+      },
+      "reviews": {
+        "title": "Hempy Construction Reviews | Columbus, OH Remodeling",
+        "description": "Read what our satisfied customers are saying about Hempy Construction's remodeling services in Columbus. See our 5-star reviews!"
+      },
+      "service-areas": {
+        "title": "Hempy Construction Service Areas | Columbus, OH",
+        "description": "Hempy Construction provides remodeling services in Columbus, Dublin, Westerville, Hilliard, Grove City, and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "basement-remodeling": "/images/service-basement-remodeling.webp",
+      "whole-house-remodeling": "/images/service-whole-house-remodeling.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "siding-services": "/images/service-siding-services.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "basement-remodeling": {
+        "src": "/images/service-basement-remodeling.webp",
+        "srcset": "/images/service-basement-remodeling-400w.webp 400w, /images/service-basement-remodeling-800w.webp 800w, /images/service-basement-remodeling-1200w.webp 1200w, /images/service-basement-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-house-remodeling": {
+        "src": "/images/service-whole-house-remodeling.webp",
+        "srcset": "/images/service-whole-house-remodeling-400w.webp 400w, /images/service-whole-house-remodeling-800w.webp 800w, /images/service-whole-house-remodeling-1200w.webp 1200w, /images/service-whole-house-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-services": {
+        "src": "/images/service-siding-services.webp",
+        "srcset": "/images/service-siding-services-400w.webp 400w, /images/service-siding-services-800w.webp 800w, /images/service-siding-services-1200w.webp 1200w, /images/service-siding-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
